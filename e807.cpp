@@ -19,11 +19,7 @@ int main()
                 day=i+1;
                 d_big=d;
             }
-
-
     }
-
-
 
     for (int i=0;i<4;i++)
     {
@@ -35,8 +31,6 @@ int main()
                 time=i;
                 t_big=t;
             }
-
-
     }
 
 
@@ -51,5 +45,13 @@ int main()
     else
         cout<<"early morning";
     return 0;
+
+    /*
+    解題思路:
+    1.依題意輸入各天各時段的雨量
+    2.加總各天雨量並找出最大值
+    3.加總各時段雨量並找出最大值
+    4.輸出最大值的天、時段
+    */
 
 }
