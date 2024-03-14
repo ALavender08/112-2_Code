@@ -1,4 +1,4 @@
-# 一個記錄[Zerojudge](https://zerojudge.tw/)題目的AC程式及解題思路的地方
+# 這裡是一個記錄[Zerojudge](https://zerojudge.tw/)題目的AC程式及解題思路的地方
 
 
 ## TOI題單(按完成先後順序排):
