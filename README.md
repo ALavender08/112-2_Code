@@ -20,6 +20,9 @@
 - [ ] [e288 互補CP](https://zerojudge.tw/ShowProblem?problemid=e288)
 - [ ] [e289 美麗的彩帶](https://zerojudge.tw/ShowProblem?problemid=e289)
 
+## 其他:
+- [x] [a915. 二维点排序](https://zerojudge.tw/ShowProblem?problemid=a915)
+
 > [!NOTE]
 > **以上為題目連結，要看程式碼請參考上面 :grin:**
 
