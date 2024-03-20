@@ -22,6 +22,7 @@
 
 ## 其他:
 - [x] [a915. 二维点排序](https://zerojudge.tw/ShowProblem?problemid=a915)
+- [x] [a233. 排序法~~~ 挑戰極限](https://zerojudge.tw/ShowProblem?problemid=a233)
 
 > [!NOTE]
 > **以上為題目連結，要看程式碼請參考上面 :grin:**
