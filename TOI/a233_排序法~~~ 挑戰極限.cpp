@@ -3,7 +3,11 @@ using namespace std;
 
 int select (int arr[], int siz)
 {
-    //��ܱƧ�
+    /*
+    選擇排序:
+    從第一個開始和所有數比較，若遇到比該數小的就換小數與接下來的數比較，原數則取代小數位置，一輪比完小數改到最一開始比較的數的位置
+    一輪結束最小數會排好
+    */
     for (int i=0;i<siz-1;i++)
     {
         int mini=i;
@@ -19,9 +23,11 @@ int select (int arr[], int siz)
 
 int bubble (int arr[], int siz)
 {
-    //��w�Ƨ�
+    
     /*
-    �q�Ĥ@�Ӷ}�l
+    氣泡排序:
+    從第一個開始兩兩比較，如果後者小、前者大就交換位置
+    一輪結束最大數會排好
     */
     for (int i=0;i<siz-1;i++)
     {
@@ -44,7 +50,10 @@ int main()
         cin>>a[i];
     //select(a,si);
     //bubble(a,si);
+
+    //內建涵式: sort(列表, 列表+列表內容總數)
     sort(a,a+si);
+    
     for (int i=0;i<si;i++)
     {
         cout<<a[i];
