@@ -1,7 +1,7 @@
 # 這裡是記錄自主練習程式題目的AC程式碼及解題思路的地方
 
 
-## TOI題單(按完成先後順序排):
+## TOI題單:
 - [x] [c199 爬山去 (Hiking)](https://zerojudge.tw/ShowProblem?problemid=c199)
 - [x] [k516 根號 (Sqrt)](https://zerojudge.tw/ShowProblem?problemid=k516)
 - [x] [e806 多項式計算 (Polynomial)](https://zerojudge.tw/ShowProblem?problemid=e806)
@@ -25,7 +25,8 @@
 - [x] [a233. 排序法~~~ 挑戰極限](https://zerojudge.tw/ShowProblem?problemid=a233)
 
 > [!NOTE]
-> **以上為題目連結，要看程式碼請參考上面 :grin:**
+> - **以上題目按完成時間排序**
+> - **以上為題目連結，要看程式碼請參考上面 :grin:**
 
 
 > README.md 文法參考網址: [戳這裡](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) [和這裡](https://github.com/fr407041/MarkdownTutorial)
