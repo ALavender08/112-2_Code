@@ -30,6 +30,7 @@
 
 
 > README.md 文法參考網址: [戳這裡](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) [和這裡](https://github.com/fr407041/MarkdownTutorial)
+> 表情符號編碼: [戳這裡](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
 
 
