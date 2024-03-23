@@ -13,14 +13,14 @@ int main ()
 
     while (x<=t)
     {
-        //cout<<"in"<<endl;
         if (n%x!=0)
         {
             x++;
             continue;
         }
 
-        int y=n/x , chx=2, chy=2, tx=1 , ty=1; // ch? >> check ?
+        int y=n/x , chx=2, chy=2, tx=1 , ty=1; 
+        // ch? >> check ?
 
         bool xp=false, yp=false;
         //?p >> ? is prime
@@ -30,10 +30,7 @@ int main ()
         {
             tx++;
         }
-
-        //
-        //cout<<tx<<endl;
-
+        
         while (chx<=tx)
         {
             if (x%chx==0 && x!=2)
@@ -52,8 +49,6 @@ int main ()
                 ty++;
         }
 
-        //
-        //cout<<ty<<endl;
 
         while (chy<=ty)
         {
