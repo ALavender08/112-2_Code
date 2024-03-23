@@ -25,7 +25,6 @@ int main ()
             if (x%chx==0)
             {
                 xp=false;
-                //cout<<"x= "<<x<<"y= "<<y<<endl;
                 break;
             }
             chx++;
@@ -37,7 +36,6 @@ int main ()
             if (y%chy==0)
             {
                 yp=false;
-                //cout<<"x= "<<x<<"y= "<<y<<endl;
                 break;
             }
             chy++;
