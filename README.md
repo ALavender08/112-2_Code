@@ -9,7 +9,7 @@
 - [x] [e621 免費停車 (Free Parking)](https://zerojudge.tw/ShowProblem?problemid=e621)
 - [x] [e807 降雨量統計 (Rainfall statistics)](https://zerojudge.tw/ShowProblem?problemid=e807)
 - [x] [e808 不再傻傻等公車 (Bus)](https://zerojudge.tw/ShowProblem?problemid=e808)
-- [x] 3月-1
+- [x] [n360 搶21 (The 21 Game)](https://zerojudge.tw/ShowProblem?problemid=n360)
 - [x] 3月-2
 - [x] 3月-3
 
