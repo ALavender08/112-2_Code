@@ -10,8 +10,8 @@
 - [x] [e807 降雨量統計 (Rainfall statistics)](https://zerojudge.tw/ShowProblem?problemid=e807)
 - [x] [e808 不再傻傻等公車 (Bus)](https://zerojudge.tw/ShowProblem?problemid=e808)
 - [x] [n360 搶21 (The 21 Game)](https://zerojudge.tw/ShowProblem?problemid=n360)
-- [x] 3月-2
-- [x] 3月-3
+- [x] [n361 數字旅館 (hotel)](https://zerojudge.tw/ShowProblem?problemid=n361)
+- [x] [n362 質數遊戲 (Primes)](https://zerojudge.tw/ShowProblem?problemid=n362)
 
 ## APCS題單:
 - [x] [e286 籃球比賽](https://zerojudge.tw/ShowProblem?problemid=e286)
