@@ -14,7 +14,8 @@ int main ()
                 continue;
             }
 
-        int y=n/x , chx=2, chy=2; // ch? >> check ?
+        int y=n/x , chx=2, chy=2; 
+        // ch? >> check ?
 
         bool xp=true, yp=true;
         //?p >> ? is prime
