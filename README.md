@@ -17,7 +17,6 @@
 - [x] [e286 籃球比賽](https://zerojudge.tw/ShowProblem?problemid=e286)
 - [x] [c290 APCS 2017-0304-1秘密差](https://zerojudge.tw/ShowProblem?problemid=c290)
 - [x] [e287 機器人的路徑](https://zerojudge.tw/ShowProblem?problemid=e287)
-- [ ] [e288 互補CP](https://zerojudge.tw/ShowProblem?problemid=e288)
 - [ ] [e289 美麗的彩帶](https://zerojudge.tw/ShowProblem?problemid=e289)
 
 ## 其他:
