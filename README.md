@@ -18,6 +18,7 @@
 - [x] [c290 APCS 2017-0304-1秘密差](https://zerojudge.tw/ShowProblem?problemid=c290)
 - [x] [e287 機器人的路徑](https://zerojudge.tw/ShowProblem?problemid=e287)
 - [ ] [e289 美麗的彩帶](https://zerojudge.tw/ShowProblem?problemid=e289)
+- [ ] [f580. 2. 骰子](https://zerojudge.tw/ShowProblem?problemid=f580)
 
 ## 其他:
 - [x] [a915. 二维点排序](https://zerojudge.tw/ShowProblem?problemid=a915)
@@ -28,7 +29,7 @@
 > - **以上為題目連結，要看程式碼請參考上面 :grin:**
 
 
-> README.md 文法參考網址: [戳這裡](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) [和這裡](https://github.com/fr407041/MarkdownTutorial)  
+> README.md 文法參考網址: [戳這裡](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)　和　[這裡](https://github.com/fr407041/MarkdownTutorial)  
 > 表情符號編碼: [戳這裡](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
 
