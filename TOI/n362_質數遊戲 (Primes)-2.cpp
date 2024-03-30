@@ -19,7 +19,7 @@ int main ()
             continue;
         }
 
-        int y=n/x , chx=2, chy=2, tx=1 , ty=1; 
+        int y=n/x , chx=2, chy=2, tx=1 , ty=1;
         // ch? >> check ?
 
         bool xp=false, yp=false;
@@ -30,10 +30,11 @@ int main ()
         {
             tx++;
         }
-        
+
+
         while (chx<=tx)
         {
-            if (x%chx==0 && x%chx!=1)
+            if (x%chx==0 && (float)x/chy!=1.0)
             {
                 break;
             }
@@ -53,7 +54,7 @@ int main ()
         while (chy<=ty)
         {
 
-            if (y%chy==0 && y/chy!=1)
+            if (y%chy==0 && (float)y/chy!=1.0)
             {
                 break;
             }
@@ -76,7 +77,7 @@ int main ()
     return 0;
 
     /*
-    注意: 這題不能一次 while 到底，就算 TOI 算你對 Zerojudge 也會給你TLE (沒錯就是在說我
+    注意: 這題不能一次 while 到底，就算TOI 算你對 Zerojudge 也會給你TLE (沒錯就是在說我
           檢查因數只要檢查到他的開根號就可以出來了，不然一定TLE
 
     解題思路:
@@ -89,5 +90,5 @@ int main ()
     6. 再進入一個 while 迴圈檢查 y ，邏輯同 5.
     7. 如果 x 、 y 皆為質數，輸出 x 、 y ，否則 x +1 並開始下輪迴圈檢查
     8. 如果一直都沒符合條件，跳出迴圈後輸出 "0 0"
-   */
+    */
 }
