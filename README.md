@@ -18,7 +18,7 @@
 - [x] [c290 APCS 2017-0304-1秘密差](https://zerojudge.tw/ShowProblem?problemid=c290)
 - [x] [e287 機器人的路徑](https://zerojudge.tw/ShowProblem?problemid=e287)
 - [ ] [e289 美麗的彩帶](https://zerojudge.tw/ShowProblem?problemid=e289)
-- [ ] [f580. 2. 骰子](https://zerojudge.tw/ShowProblem?problemid=f580)
+- [x] [f580. 2. 骰子](https://zerojudge.tw/ShowProblem?problemid=f580)
 
 ## 其他:
 - [x] [a915. 二维点排序](https://zerojudge.tw/ShowProblem?problemid=a915)
