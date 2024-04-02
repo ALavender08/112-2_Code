@@ -30,7 +30,7 @@
 > - **以上為題目連結，要看程式碼請參考上面 :grin:**
 
 
-> README.md 文法參考網址: [戳這裡](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)　和　[這裡](https://github.com/fr407041/MarkdownTutorial)　還有[這裡](https://ithelp.ithome.com.tw/articles/10203758)  
+> README.md 文法參考網址: [戳這裡](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)　和　[這裡](https://github.com/fr407041/MarkdownTutorial)　還有　[這裡](https://ithelp.ithome.com.tw/articles/10203758)  
 > 表情符號編碼: [戳這裡](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
 
