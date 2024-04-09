@@ -48,7 +48,7 @@ int main()
         for (int x=0;x<sub_l;x++)
             cout<<beau[x]<<" ";
         cout<<"beauty= "<<beauty<<' ';
-        cout<<"now_place= "<<now_place;
+        cout<<"now_place= "<<now_place<<' ';
         cout<<"now_place%sub_l= "<<now_place%sub_l<<endl;
         cout<<endl;
 */
