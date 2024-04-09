@@ -31,7 +31,6 @@ int main()
         if (re)
         {
             now_place=0;
-            continue;
         }
 
         if ((now_place+1)/sub_l>=1)
