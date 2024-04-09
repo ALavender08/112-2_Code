@@ -24,6 +24,7 @@
 - [x] [a915. 二维点排序](https://zerojudge.tw/ShowProblem?problemid=a915)
 - [x] [a233. 排序法~~~ 挑戰極限](https://zerojudge.tw/ShowProblem?problemid=a233)
 - [x] [d485. 我愛偶數](https://zerojudge.tw/ShowProblem?problemid=d485)
+- [x] [b153.  判斷質數-商競103](https://zerojudge.tw/ShowProblem?problemid=b513)
 
 > [!NOTE]
 > - **以上題目按完成時間排序**
