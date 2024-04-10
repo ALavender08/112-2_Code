@@ -1,3 +1,4 @@
+
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -7,7 +8,7 @@ int main()
     // all_l = 陣列大小，sub_l = 子陣列大小，beauty = 美麗度(? ， now_place = 索引值
 
     cin>>sub_l>>all_l;
-    string l[all_l],beau[sub_l]; // l = 整條彩帶 ， beau = 子彩帶(?
+    string l[all_l],beau[sub_l]={"-1"}; // l = 整條彩帶 ， beau = 子彩帶(?
 
     for (int i=0;i<all_l;i++)
     {
@@ -21,7 +22,7 @@ int main()
         bool re=false; //判斷子彩帶是否有重複的顏色
 
 
-        int index;
+        int index,re_index;
         if ((now_place+1)/sub_l<1)
             index=now_place%sub_l;
         else
@@ -29,16 +30,35 @@ int main()
 
         for (int j=0;j<index;j++)
         {
-            if (j==now_place%sub_l)
+            if (j==now_place%sub_l || beau[j]=="-1")
                 continue;  // 這格是新色彩要加的位置，不用檢查 ( 原本的色彩要被淘汰 )
             if (new_color==beau[j])
             {
                 re=true; // 發現重複色彩
+                re_index=j;
                 break;
            }
         }
         if (re)
+        {
+            for (int r=0;r<=re_index;r++)
+                beau[r]="-1";
             now_place=0;
+
+            //
+            /*
+            for (int x=0;x<sub_l;x++)
+                cout<<beau[x]<<" ";
+            cout<<"beauty= "<<beauty<<' ';
+            cout<<"now_place= "<<now_place<<' ';
+            cout<<"取整= "<<(now_place+1)/sub_l<<' ';
+            cout<<"取餘= "<<now_place%sub_l<<endl;
+            cout<<endl;
+            */
+
+
+            continue;
+        }
 
         if ((now_place+1)/sub_l>=1)
             beauty++;
@@ -57,7 +77,7 @@ int main()
         cout<<endl;
 */
 
-      //自己測試發現出事 : 
+      //自己測試發現出事 :
       /*
         3 10
         1 2 3 3 3 4 5 6 5 7
