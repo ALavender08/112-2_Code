@@ -33,7 +33,6 @@
 
 </details>
 
-> [!NOTE]
 
 
 <details>
