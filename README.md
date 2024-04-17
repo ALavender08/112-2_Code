@@ -33,6 +33,8 @@
 
 </details>
 
+> [!NOTE]
+
 
 <details>
   <summary> 正在寫ing... : </summary>
@@ -56,6 +58,7 @@
 
 
 > [!NOTE]
+> - **「正在寫ing...」及「大佬請救救我區」兩區的程式碼皆在 unfinished 資料夾中**
 > - **以上為題目連結，要看程式碼請參考上面 :grin:**
 
 
