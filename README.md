@@ -1,5 +1,7 @@
 # 這裡是記錄自主練習程式題目的AC程式碼及解題思路的地方
 
+<details>
+<summary> 已完成區： </summary>
 
 ## TOI題單:
 - [x] [c199 爬山去 (Hiking)](https://zerojudge.tw/ShowProblem?problemid=c199)
@@ -17,7 +19,6 @@
 - [x] [e286 籃球比賽](https://zerojudge.tw/ShowProblem?problemid=e286)
 - [x] [c290 APCS 2017-0304-1秘密差](https://zerojudge.tw/ShowProblem?problemid=c290)
 - [x] [e287 機器人的路徑](https://zerojudge.tw/ShowProblem?problemid=e287)
-- [ ] [e289 美麗的彩帶](https://zerojudge.tw/ShowProblem?problemid=e289)
 - [x] [f580. 2. 骰子](https://zerojudge.tw/ShowProblem?problemid=f580)
 
 ## 其他:
@@ -30,6 +31,29 @@
 - [x] a157.費波那契數列
 - [x] a158.F91
 
+</details>
+
+
+<details>
+  <summary> 正在寫ing... : </summary>
+  
+- [ ] a021. 大樹運算
+- [ ] HWSH--a317
+- [ ] HWSH--a318
+  
+</details>
+
+
+<details>
+  <summary> 大佬請救救我區: </summary>
+  
+- [ ] [e289 美麗的彩帶](https://zerojudge.tw/ShowProblem?problemid=e289)
+
+</details>
+
+
+
+
 > [!NOTE]
 > - **以上為題目連結，要看程式碼請參考上面 :grin:**
 
@@ -38,7 +62,5 @@
 > 表情符號編碼: [戳這裡](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
 
-
-<!--~~我好閒喔跑來寫這東西還玩一堆奇奇怪怪的程式 :sweat_smile:~~--!>
 
 
