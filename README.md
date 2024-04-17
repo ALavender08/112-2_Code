@@ -26,8 +26,11 @@
 - [x] [d485. 我愛偶數](https://zerojudge.tw/ShowProblem?problemid=d485)
 - [x] [b153.  判斷質數-商競103](https://zerojudge.tw/ShowProblem?problemid=b513)
 
+## APCS練習網題單:
+- [x] a157.費波那契數列
+- [x] a158.F91
+
 > [!NOTE]
-> - **以上題目按完成時間排序**
 > - **以上為題目連結，要看程式碼請參考上面 :grin:**
 
 
