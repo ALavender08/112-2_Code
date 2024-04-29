@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    // set 與插入順序無關，小的數自動放前面，大的數自動放後面，因此不可行
+    // set 與插入順序無關，小的數自動放前面，大的數自動放後面，因此不可直接作為整條彩帶的紀錄
     //參考資料: https://hackmd.io/@sa072686/cp/%2F%40sa072686%2FH1qI86oOr
 
     // vector 本身無 find 或 count，不是不能用，只是會TLE
