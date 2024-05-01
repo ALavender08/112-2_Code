@@ -14,6 +14,7 @@
 - [x] [n360 搶21 (The 21 Game)](https://zerojudge.tw/ShowProblem?problemid=n360)
 - [x] [n361 數字旅館 (hotel)](https://zerojudge.tw/ShowProblem?problemid=n361)
 - [x] [n362 質數遊戲 (Primes)](https://zerojudge.tw/ShowProblem?problemid=n362)
+- [x] 4月TOI第一題
 
 ## APCS題單:
 - [x] [e286 籃球比賽](https://zerojudge.tw/ShowProblem?problemid=e286)
@@ -36,12 +37,14 @@
 
 
 <details>
-  <summary> 正在寫ing... : </summary>
+  <summary> 正在寫或debug中...: </summary>
   
 - [ ] a021. 大樹運算
 - [ ] HWSH--a317
 - [ ] HWSH--a318
 - [ ] b184. 5. 裝貨櫃問題
+- [ ] 4月TOI第二題
+- [ ] 4月TOI第三題
   
 </details>
 
