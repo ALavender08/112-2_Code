@@ -1,7 +1,7 @@
 # 這裡是記錄自主練習程式題目的AC程式碼及解題思路的地方
 
 <details>
-<summary> 已完成區： </summary>
+<summary> 已完成： </summary>
 
 ## TOI題單:
 - [x] [c199 爬山去 (Hiking)](https://zerojudge.tw/ShowProblem?problemid=c199)
@@ -27,6 +27,7 @@
 - [x] [a233. 排序法~~~ 挑戰極限](https://zerojudge.tw/ShowProblem?problemid=a233)
 - [x] [d485. 我愛偶數](https://zerojudge.tw/ShowProblem?problemid=d485)
 - [x] [b153.  判斷質數-商競103](https://zerojudge.tw/ShowProblem?problemid=b513)
+- [x] [i213 stack練習](https://zerojudge.tw/ShowProblem?problemid=i213)
 
 ## APCS練習網題單:
 - [x] a157.費波那契數列
@@ -37,12 +38,13 @@
 
 
 <details>
-  <summary> 正在寫或debug中...: </summary>
+  <summary> 正在寫或研究或debug中...　: </summary>
   
 - [ ] a021. 大樹運算
 - [ ] HWSH--a317
 - [ ] HWSH--a318
-- [ ] b184. 5. 裝貨櫃問題
+- [ ] [b184. 5. 裝貨櫃問題](https://zerojudge.tw/ShowProblem?problemid=b184)
+- [ ] a051. 城市旅遊
 - [ ] 4月TOI第二題
 - [ ] 4月TOI第三題
   
@@ -50,7 +52,7 @@
 
 
 <details>
-  <summary> 大佬請救救我區: </summary>
+  <summary> 大佬請救救我: </summary>
   
 - [ ] [e289 美麗的彩帶](https://zerojudge.tw/ShowProblem?problemid=e289)
 
@@ -60,7 +62,7 @@
 
 
 > [!NOTE]
-> - **「正在寫ing...」及「大佬請救救我區」兩區的程式碼皆在 unfinished 資料夾中**
+> - **「正在寫或研究或debug中...」及「大佬請救救我」兩區的程式碼皆在 unfinished 資料夾中**
 > - **以上為題目連結，要看程式碼請參考上面 :grin:**
 
 
