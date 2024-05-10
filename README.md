@@ -14,13 +14,14 @@
 - [x] [n360 搶21 (The 21 Game)](https://zerojudge.tw/ShowProblem?problemid=n360)
 - [x] [n361 數字旅館 (hotel)](https://zerojudge.tw/ShowProblem?problemid=n361)
 - [x] [n362 質數遊戲 (Primes)](https://zerojudge.tw/ShowProblem?problemid=n362)
-- [x] 4月TOI第一題
+- [x] [n631. 撲克 (Poker)](https://zerojudge.tw/ShowProblem?problemid=n631)
 
 ## APCS題單:
 - [x] [e286 籃球比賽](https://zerojudge.tw/ShowProblem?problemid=e286)
 - [x] [c290 APCS 2017-0304-1秘密差](https://zerojudge.tw/ShowProblem?problemid=c290)
 - [x] [e287 機器人的路徑](https://zerojudge.tw/ShowProblem?problemid=e287)
 - [x] [f580. 2. 骰子](https://zerojudge.tw/ShowProblem?problemid=f580)
+- [x] [b964. 1. 成績指標](https://zerojudge.tw/ShowProblem?problemid=b964)
 
 ## 其他:
 - [x] [a915. 二维点排序](https://zerojudge.tw/ShowProblem?problemid=a915)
@@ -45,8 +46,9 @@
 - [ ] HWSH--a318
 - [ ] [b184. 5. 裝貨櫃問題](https://zerojudge.tw/ShowProblem?problemid=b184)
 - [ ] a051. 城市旅遊
-- [ ] 4月TOI第二題
+- [ ] 4月TOI第一題
 - [ ] 4月TOI第三題
+- [ ] [b965. 2. 矩陣轉換](https://zerojudge.tw/ShowProblem?problemid=b965)
   
 </details>
 
