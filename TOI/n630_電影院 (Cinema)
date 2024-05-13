@@ -1,0 +1,54 @@
+#include <bits/stdc++.h>
+using namespace std;
+int main()
+{
+    /*
+    前言廢話:
+    我感覺這題的小時跟分鐘可以用pair但我寫的時候忘了文法了TAT
+    */
+
+    int n;
+    cin>>n;
+    int hr[n],m[n];
+    for (int i=0;i<n;i++)
+    {
+        cin>>hr[i]>>m[i];
+    }
+    int nh,nm,ear=24*60+1,nt,eai;
+    cin>>nh>>nm;
+    nt=nh*60+nm+20; //換算成分鐘+準備時間
+
+    for (int i=0;i<n;i++)
+    {
+        int movit=hr[i]*60+m[i];
+
+        if (movit-nt<ear && movit-nt>=0)
+            {
+                ear=movit-nt;
+                eai=i;
+            }
+    }
+
+    if (ear!=24*60+1)
+        {
+            if (hr[eai]<10)
+                cout<<'0'; //記得補0
+            cout<<hr[eai]<<' ';
+            if (m[eai]<10)
+                cout<<'0'; //記得補0
+            cout<<m[eai];
+        }
+    else
+        cout<<"Too Late";
+    return 0;
+
+    /*
+    解題思路:
+    1. 依序輸入並記錄電影播放時間及現在時間
+    2. 新增變數分別表 最近的電影離現在幾分鐘(預設一天+1分鐘)、最近電影的索引值
+    3. 將現在時間換算成分鐘
+    4. 進迴圈，將電影時間換分鐘，並確認此電影是否最接近現在時間且時間為正(還沒錯過電影)，如果是，記錄電影距離現在的時間及其索引值
+    5. 如果最近電影距離現在時間不是初始值就輸出答案，輸出時記得補0，否則輸出 Too Late
+    */
+
+}
