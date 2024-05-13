@@ -15,6 +15,7 @@
 - [x] [n361 數字旅館 (hotel)](https://zerojudge.tw/ShowProblem?problemid=n361)
 - [x] [n362 質數遊戲 (Primes)](https://zerojudge.tw/ShowProblem?problemid=n362)
 - [x] [n631. 撲克 (Poker)](https://zerojudge.tw/ShowProblem?problemid=n631)
+- [x] [n630. 電影院 (Cinema)](https://zerojudge.tw/ShowProblem?problemid=n630)
 
 ## APCS題單:
 - [x] [e286 籃球比賽](https://zerojudge.tw/ShowProblem?problemid=e286)
@@ -46,7 +47,6 @@
 - [ ] HWSH--a318
 - [ ] [b184. 5. 裝貨櫃問題](https://zerojudge.tw/ShowProblem?problemid=b184)
 - [ ] a051. 城市旅遊
-- [ ] 4月TOI第一題
 - [ ] 4月TOI第三題
 - [ ] [b965. 2. 矩陣轉換](https://zerojudge.tw/ShowProblem?problemid=b965)
   
