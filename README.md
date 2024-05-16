@@ -49,6 +49,7 @@
 - [ ] [b184. 5. 裝貨櫃問題](https://zerojudge.tw/ShowProblem?problemid=b184)
 - [ ] a051. 城市旅遊
 - [ ] [b965. 2. 矩陣轉換](https://zerojudge.tw/ShowProblem?problemid=b965)
+- [ ] [k468. 打靶 (Target)](https://zerojudge.tw/ShowProblem?problemid=k468)
   
 </details>
 
