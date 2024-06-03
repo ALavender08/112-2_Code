@@ -17,6 +17,7 @@
 - [x] [n631. 撲克 (Poker)](https://zerojudge.tw/ShowProblem?problemid=n631)
 - [x] [n630. 電影院 (Cinema)](https://zerojudge.tw/ShowProblem?problemid=n630)
 - [x] [n632. 熱門商品 (Commodity)](https://zerojudge.tw/ShowProblem?problemid=n632)
+- [x] [k468. 打靶 (Target)](https://zerojudge.tw/ShowProblem?problemid=k468)
 
 ## APCS題單:
 - [x] [e286 籃球比賽](https://zerojudge.tw/ShowProblem?problemid=e286)
@@ -49,7 +50,7 @@
 - [ ] [b184. 5. 裝貨櫃問題](https://zerojudge.tw/ShowProblem?problemid=b184)
 - [ ] a051. 城市旅遊
 - [ ] [b965. 2. 矩陣轉換](https://zerojudge.tw/ShowProblem?problemid=b965)
-- [ ] [k468. 打靶 (Target)](https://zerojudge.tw/ShowProblem?problemid=k468)
+
   
 </details>
 
